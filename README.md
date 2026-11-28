@@ -1,4 +1,4 @@
-# 🎮 Sam's Bio Card — Live Discord Presence Website
+# 🎮 Sam's Bio Card Live Discord Presence Website
 
 A sleek, aesthetic personal bio website with **real-time Discord presence**, **avatar decoration support**, **video background**, and a cinematic entrance experience. Built with vanilla HTML/CSS/JS and deployed on Vercel.
 
